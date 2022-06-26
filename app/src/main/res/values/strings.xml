@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Модель Мальтуса</string>
+    <string name="creator">KOLINKO</string>
+    <string name="hint0">0</string>
+    <string name="xipopulationsize">Xᵢ (размер популяции):</string>
+    <string name="initialyear">Начальный год:</string>
+    <string name="finalyear">Конечный год:</string>
+    <string name="rbirthrate">r (рождаемость):</string>
+    <string name="mmortality">m (смертность):</string>
+    <string name="populationsize">Размер популяции</string>
+</resources>
